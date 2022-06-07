@@ -10,6 +10,6 @@ const PaletaContext = {
 };
 
 export const Api = {
-    baseUrl: 'http://localhost:3002',
+    baseUrl: 'http://localhost:3001',
     ...PaletaContext,
 };
